@@ -3,7 +3,7 @@
 **Student Name:** (Manikesh Kumar)  
 **Roll Number / UID:** 47  
 **Problem Statement:** P7 — Bike Rental  
-**Live Deployment:** (Add Vercel link after deploy)
+**Live Deployment:** https://bike-rental-project-assignment.vercel.app/
 
 ## Run Locally
 
